@@ -35,7 +35,7 @@
 
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
-[![Instagram Badge](https://img.shields.io/badge/-@Bhimesh-Yadav-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unique__rao_/)](https://www.instagram.com/unique__rao_/)
+[![Instagram Badge](https://img.shields.io/badge/-@bhimeshyadav-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unique__rao_/)](https://www.instagram.com/unique__rao_/)
 [![Linkedin Badge](https://img.shields.io/badge/-bhimeshyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimeshyadav//)](https://www.linkedin.com/in/bhimeshyadav/)
 
 
