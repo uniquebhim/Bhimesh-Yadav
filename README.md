@@ -25,7 +25,7 @@
 - 🏫 I’m currently learning **Full Stack Web Devlopment and DSA** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
-- 🥅 2025 Goals: **To get Placed :)** <br>
+- 🥅 2023 Goals: **To get Placed :)** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
